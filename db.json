@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "task",
+      "day": "friday",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "go to shopping ",
+      "day": "minday",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "become a Ninja",
+      "day": "Thu, July 2021",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
